@@ -1,0 +1,16 @@
+D:\C#\1\from dang nhap\from dang nhap\obj\Debug\net8.0-windows\from_dang_nhap.Form1.resources
+D:\C#\1\from dang nhap\from dang nhap\obj\Debug\net8.0-windows\from dang nhap.csproj.GenerateResource.cache
+D:\C#\1\from dang nhap\from dang nhap\obj\Debug\net8.0-windows\from dang nhap.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\1\from dang nhap\from dang nhap\obj\Debug\net8.0-windows\from dang nhap.AssemblyInfoInputs.cache
+D:\C#\1\from dang nhap\from dang nhap\obj\Debug\net8.0-windows\from dang nhap.AssemblyInfo.cs
+D:\C#\1\from dang nhap\from dang nhap\obj\Debug\net8.0-windows\from dang nhap.csproj.CoreCompileInputs.cache
+D:\C#\1\from dang nhap\from dang nhap\bin\Debug\net8.0-windows\from dang nhap.exe
+D:\C#\1\from dang nhap\from dang nhap\bin\Debug\net8.0-windows\from dang nhap.deps.json
+D:\C#\1\from dang nhap\from dang nhap\bin\Debug\net8.0-windows\from dang nhap.runtimeconfig.json
+D:\C#\1\from dang nhap\from dang nhap\bin\Debug\net8.0-windows\from dang nhap.dll
+D:\C#\1\from dang nhap\from dang nhap\bin\Debug\net8.0-windows\from dang nhap.pdb
+D:\C#\1\from dang nhap\from dang nhap\obj\Debug\net8.0-windows\from dang nhap.dll
+D:\C#\1\from dang nhap\from dang nhap\obj\Debug\net8.0-windows\refint\from dang nhap.dll
+D:\C#\1\from dang nhap\from dang nhap\obj\Debug\net8.0-windows\from dang nhap.pdb
+D:\C#\1\from dang nhap\from dang nhap\obj\Debug\net8.0-windows\from dang nhap.genruntimeconfig.cache
+D:\C#\1\from dang nhap\from dang nhap\obj\Debug\net8.0-windows\ref\from dang nhap.dll
